@@ -1,7 +1,8 @@
 
 public class PawnTest extends junit.framework.TestCase {
     public void testCreate() {
-        new Pawn("blackA2");
+        Pawn pawn1 = new Pawn("white");
+
 
     }
 }
