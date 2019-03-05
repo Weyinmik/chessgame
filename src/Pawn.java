@@ -6,6 +6,6 @@ public class Pawn {
     }
 
     String getPawnColor() {
-        return "white";
+        return pawnColor;
     }
 }
